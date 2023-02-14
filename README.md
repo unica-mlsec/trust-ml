@@ -7,11 +7,11 @@
 
 **Instructors:** Dr. Maura Pintor
 
-**PhD Program in Electronic and Computer Engineering University of Cagliari, Italy**
+* **PhD Program in Electronic and Computer Engineering University of Cagliari, Italy**
 
-**National PhD Program in Artificial Intelligence**
+* **National PhD Program in Artificial Intelligence**
 
-**GitHub repository for course material:** [https://github.com/unica-mlsec/trustml](https://github.com/unica-mlsec/trustml)
+**GitHub repository for course material:** [https://github.com/unica-mlsec/trust-ml](https://github.com/unica-mlsec/trust-ml)
 
 #### Lectures
 - TBD
