@@ -1,7 +1,6 @@
 title: Trustworthy Machine Learning
-theme: jekyll-theme-cayman
+theme: just-the-docs
 plugins:
   - jemoji
-  - jekyll-default-layout
 github:
   is_project_page: false
