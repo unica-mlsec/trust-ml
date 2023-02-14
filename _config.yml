@@ -1,5 +1,5 @@
 title: Trustworthy Machine Learning
-theme: just-the-docs
+theme: just-the-docs/just-the-docs
 plugins:
   - jemoji
 github:
